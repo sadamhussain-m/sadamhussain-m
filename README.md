@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadamhussain-m
-- 👀 I’m interested in web Development
-- 🌱 I’m currently learning about block-chain technology
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning about BlockChain Technology
 - 💞️ I’m looking to contribute to open-source projects 
 - 📫 How to reach me ...
 - https://twitter.com/sadam_msh
