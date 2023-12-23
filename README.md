@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sadamhussain-m
+- 👋 Hi, I’m @sadam
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning about BlockChain Technology
 - 💞️ I’m looking to contribute to open-source projects 
